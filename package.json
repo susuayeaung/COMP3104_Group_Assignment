@@ -1,0 +1,20 @@
+{
+  "name": "COMP3104_Group_Assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: No tests created yet.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susuayeaung/COMP3104_Group_Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/susuayeaung/COMP3104_Group_Assignment/issues"
+  },
+  "homepage": "https://github.com/susuayeaung/COMP3104_Group_Assignment#readme"
+}
