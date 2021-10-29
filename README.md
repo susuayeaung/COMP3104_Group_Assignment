@@ -3,7 +3,7 @@
 ## Team 10
 ## Group Members
 ### Yoo Kyung Baek (101282741)
-[GitHub link](https://github.com/ashBwhite)
+[GitHub-Yoo Kyung Baek](https://github.com/ashBwhite)
 
 [![Build Status](https://app.travis-ci.com/susuayeaung/COMP3104_Group_Assignment.svg?branch=main)](https://app.travis-ci.com/susuayeaung/COMP3104_Group_Assignment)
 
