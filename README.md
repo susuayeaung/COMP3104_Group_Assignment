@@ -1,8 +1,9 @@
-#### COMP3104 - Group Assignment
+# COMP3104 - Group Assignment
 
 ## Team 10
 ## Group Members
-# Yoo Kyung Baek (101282741)
+### Yoo Kyung Baek (101282741)
+[GitHub link](https://github.com/ashBwhite)
 
 [![Build Status](https://app.travis-ci.com/susuayeaung/COMP3104_Group_Assignment.svg?branch=main)](https://app.travis-ci.com/susuayeaung/COMP3104_Group_Assignment)
 
