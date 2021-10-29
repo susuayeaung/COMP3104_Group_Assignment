@@ -1,0 +1,3 @@
+Benefit of using DevOps are very. First of all speed of interaction between developers and operation team increases surprisingly.
+Second, reliability of the production is greatly increases as well since monitoring and logging practices are in a real-time informed.
+Third, devops improves developers and operation team's collaboration since they are sharing responsibilities and share workflows.
