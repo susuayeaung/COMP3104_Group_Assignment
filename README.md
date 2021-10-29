@@ -4,6 +4,7 @@
 ## Group Members
 ### Group Member 1: Su Su Aye Aung (101296632)
 ### Group Member 2: Yoo Kyung Baek (101282741)
+### Group Member 3: Xiaolin Wang   (101283366)
 [GitHub-Yoo Kyung Baek](https://github.com/ashBwhite)
 
 
