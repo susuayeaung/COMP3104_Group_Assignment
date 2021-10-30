@@ -1,0 +1,3 @@
+COMP3104 in Geoge brown college is a third year course in T127 program.
+It's super fun learning with our teacher Pritesh Patel.
+We mainly use visual studio code and github with gitbush.

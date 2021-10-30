@@ -1,3 +1,0 @@
-DevOps are shorten the system's development life cycle so that engineers and operation teams can react to the customers or clients more quick.
-DevOps are generated based on Agile approaches, however it is quite different than the agile method.
-DevOps made development, testing, integration, deployment, and monitoring stage all continuously. 
