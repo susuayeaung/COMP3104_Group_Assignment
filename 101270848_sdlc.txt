@@ -1,0 +1,3 @@
+DevOps model can help your developers and operations team achieve these goals.
+DevOps increases the frequency and speed of releases so that you can innovate and improve products faster.
+DevOps ensures the quality of application updates and infrastructure changes, and delivers them more quickly and reliably.
