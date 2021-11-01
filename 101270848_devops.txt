@@ -1,0 +1,2 @@
+DevOps involves a large number of protocols and procedures to ensure stability, high levels of productivity, and the ability to introduce damage control to mitigate any failures.
+DevOps is more than just tools, automation and cutting-edge technology.
