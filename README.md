@@ -1,4 +1,4 @@
-# COMP3104 - Group Assignment
+# COMP3104 - Group Assignment (DevOps)
 ## Team 10
 ## Group Members
 ### Group Member 1: Su Su Aye Aung (101296632)
